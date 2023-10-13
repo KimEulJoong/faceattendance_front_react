@@ -18,6 +18,7 @@ function App() {
       <div style={{ display: 'flex', alignItems: 'center' }}>  
       <Segment compact style={{ margin: '0 0 0 0' }}>이름</Segment>
       <Input size = 'big' action ='검색' placeholder='Search...' />
+      <h3 className='lecture'>캡스톤디자인</h3>
       </div>
       </Segment>
       <Divider inverted />
